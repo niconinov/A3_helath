@@ -1,0 +1,5 @@
+__pycache__
+data/salidas/x_train.pkl
+x_train.pkl
+data/salidas/x_test.pkl
+x_test.pkl
